@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Love O\'tudor</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about_love">About Me</string>
+    <string name="about_me">Hello there!
+        I am a Mobile app developer. I am passionate about mobile development, contributing to the growth of communities, empowering more women in tech and technical writing.</string>
+    <string name="projects">Projects</string>
+    <string name="connect_with_me">Connect With Me</string>
+</resources>
