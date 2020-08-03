@@ -8,4 +8,18 @@
         I am a Mobile app developer. I am passionate about mobile development, contributing to the growth of communities, empowering more women in tech and technical writing.</string>
     <string name="projects">Projects</string>
     <string name="connect_with_me">Connect With Me</string>
+    <string name="twitter_handle">/@lamoureSparus</string>
+    <string name="facebook_username">Love O\'tudor</string>
+    <string name="linkedin_username">Love Otudor</string>
+    <string name="gmail_handle">loveotudor@gmail.com</string>
+    <string name="instagram_handle">/@lamoureSparus</string>
+    <string name="whatsapp_number">+2348182369941</string>
+    <string name="just_java">Just Java</string>
+    <string name="about_just_java">The Just Java is an Android app with buttons and text fields that a user can interact with. The app allows a user to fill out a form to order coffee.</string>
+    <string name="miwok_app">The Miwok app is a mobile app that can teach people how to pronounce words in the Miwok language. The app consists of a list of words, with each word having an English and its Miwok translation. I used a collection of words in four categories: Numbers, colors, family members, and phrases.</string>
+    <string name="miwok_app_name">Miwok App</string>
+    <string name="moovers_app_details">Moovers is a start-up company located in Uyo, Akwa Ibom State. They exist to provide users with moving and relocation services. The Moovers mobile app is a platform that connects customers to home service providers free of charge. Customers can call or send an email to the service provider of their choice from the app. Another special feature of the app is the todo that helps you keep track of your daily tasks at the go.</string>
+    <string name="moovers_ng">Moovers.Ng</string>
+    <string name="kids_stories_details">I and my teammates developed this application from an already existing code base that was not functional.</string>
+    <string name="kids_stories_app">Kids Stories App</string>
 </resources>
